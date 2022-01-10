@@ -4,6 +4,7 @@ Hi I´m YuIshigami-kun but you can call me Yui. If you´re here for learning you
 - Python (mostly 3)
 - Javascript
 - Maybe some batch|bash scripts
+- Starting C++ and C#
 
 ### Contacts
 - [Telegram](http://t.me/darKLC_87)
